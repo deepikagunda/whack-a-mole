@@ -1,3 +1,7 @@
 # whack-a-mole
-Interactive whack-a-mole game  which accepts rows and cols to build a grid. The mole appears in random cells and the user can click on the mole to increase his/her scores.
+Interactive whack-a-mole game  which accepts rows and cols to build a grid. 
+The mole appears in random cells and the user can click on the mole to increase his/her scores.
 
+
+
+![Demo image](demo.jpg?raw=true "Whack-a-mole-demo")
