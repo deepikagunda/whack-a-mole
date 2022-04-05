@@ -3,9 +3,7 @@
   width: 100%;
 }
 .container{
-   
     display: flex;
-    /*justify-content: center;*/
     align-items:center;
     width: 100%;
     flex-direction: column;
@@ -26,6 +24,9 @@
 }
 .smallWidth{
     width: 20px;
+}
+.details{
+    margin-bottom:5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

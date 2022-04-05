@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <section className="largetext">Whac-a-mole</section>
+        <section className="largetext">Whack-a-mole</section>
         <div className="details">
           <div>
             <span>
@@ -63,8 +63,8 @@ function App() {
               />
             </span>
           </div>
-          <div>score:{score}</div>
-          <div>timeLeft:{countDownTimer}</div>
+          <div>Score : {score}</div>
+          <div>Time left : {countDownTimer}</div>
         </div>
         <Board
           rows={rows || 0}
